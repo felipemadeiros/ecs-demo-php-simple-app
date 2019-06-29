@@ -17,6 +17,7 @@
             <div class="hero-unit">
                 <h1>Pochete Team</h1>
                 <h2>App Running</h2>
+                <img border="0" alt="W3Schools" src="images/mascote.jpg" width="100" height="100">
                 <p>Aplicação está rodando em container com Amazon ECS Fargate.</p>
                 <?php
                         $myfile = fopen("/var/www/my-vol/date", "r") or die("");
