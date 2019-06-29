@@ -15,8 +15,8 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>App Running</h1>
-                <h2>Pochete Teams</h2>
+                <h1>Pochete Teams</h1>
+                <h2>App Running</h2>
                 <p>Aplicação está rodando em container com Amazon ECS Fargate.</p>
                 <?php
                         $myfile = fopen("/var/www/my-vol/date", "r") or die("");
