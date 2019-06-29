@@ -1,3 +1,4 @@
+#FROM ubuntu:12.04
 FROM felipemadeiros/pochete-baseline:1.0.0
 
 # Install dependencies
