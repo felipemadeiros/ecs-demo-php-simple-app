@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Pochete Teams</h1>
+                <h1>Pochete Team</h1>
                 <h2>App Running</h2>
                 <p>Aplicação está rodando em container com Amazon ECS Fargate.</p>
                 <?php
